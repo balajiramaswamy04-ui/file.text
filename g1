@@ -1,1 +1,4 @@
-public
+public class rm{
+public STATIC VOID MAIN(String[]args){
+System.out.println("java is good program");
+}}
