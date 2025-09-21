@@ -1,4 +1,4 @@
 public class rm{
-public STATIC VOID MAIN(String[]args){
+public static void main(String[]args){
 System.out.println("java is good program");
 }}
